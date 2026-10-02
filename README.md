@@ -54,7 +54,7 @@ credit-portfolio-risk-sql/
 4. Open the **Execute SQL** tab and paste the contents of `queries/03_concentration_risk.sql`
 5. Highlight one query at a time and press **F5**
 
-
+## 💼 Author
 **Hannah (Huong) Tran** |
 Financial Analysis |
 MSc Banking & Finance with Distinction |
